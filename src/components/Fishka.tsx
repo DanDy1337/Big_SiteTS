@@ -29,7 +29,7 @@ function Fishka(){
 
             img1.style.transform = 'rotate(' + pos1/14 + 'deg' + ') scale(-1,1) translate(' + pos1h/10 + 'px' + ', 0' + ')'
 
-            img2.style.transform = 'rotate(' + pos2/14 + 'deg' + ') translate(' + '0,' + pos1h/10 + 'px' + ')'
+            img2.style.transform = 'rotate(' + pos2/14 + 'deg' + ')  translate(' + '-' + pos1h/10 + 'px' + ', 0' + ')'
 
         }
 
