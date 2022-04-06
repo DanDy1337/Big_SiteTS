@@ -27,11 +27,9 @@ function Fishka(){
 
             pos2 = e.clientY - startCoordOfMouse[0] + 200
 
-            img1.style.transform = 'rotate(' + pos1/14 + 'deg' + ') scale(-1,1)'
-            img1.style.left = pos1h/10 + 'px'
+            img1.style.transform = 'rotate(' + pos1/14 + 'deg' + ') scale(-1,1) translate(' + pos1h/10 + 'px' + ', 0' + ')'
 
-            img2.style.transform = 'rotate(' + pos2/14 + 'deg' + ')'
-            img2.style.right = pos1h/10 + 'px'
+            img2.style.transform = 'rotate(' + pos2/14 + 'deg' + ') translate(' + '0,' + pos1h/10 + 'px' + ')'
 
         }
 
