@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Big_SiteTS/static/css/main.cdd85abf.css",
-    "main.js": "/Big_SiteTS/static/js/main.e44e09a6.js",
+    "main.js": "/Big_SiteTS/static/js/main.4ad81420.js",
     "static/media/storytellers-flipped.jpg": "/Big_SiteTS/static/media/storytellers-flipped.8e055095267d1751e7de.jpg",
     "static/media/artists-flipped.jpg": "/Big_SiteTS/static/media/artists-flipped.832ae70de14ebac7e395.jpg",
     "static/media/technologists-flipped.jpg": "/Big_SiteTS/static/media/technologists-flipped.2900682e3f6736d018a0.jpg",
     "static/media/logo.png": "/Big_SiteTS/static/media/logo.b0cf885b1fc4a30e189a.png",
     "index.html": "/Big_SiteTS/index.html",
     "main.cdd85abf.css.map": "/Big_SiteTS/static/css/main.cdd85abf.css.map",
-    "main.e44e09a6.js.map": "/Big_SiteTS/static/js/main.e44e09a6.js.map"
+    "main.4ad81420.js.map": "/Big_SiteTS/static/js/main.4ad81420.js.map"
   },
   "entrypoints": [
     "static/css/main.cdd85abf.css",
-    "static/js/main.e44e09a6.js"
+    "static/js/main.4ad81420.js"
   ]
 }
