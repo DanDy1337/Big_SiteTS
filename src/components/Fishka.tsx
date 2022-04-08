@@ -23,7 +23,7 @@ function Fishka(){
             }
 
             pos1 =  startCoordOfMouse[0] - e.clientY - 200
-            pos1h = startCoordOfMouse[1] - e.clientX + 1000
+            pos1h = startCoordOfMouse[1] - e.clientX + 100
 
             pos2 = e.clientY - startCoordOfMouse[0] + 200
 
