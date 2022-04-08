@@ -23,13 +23,13 @@ function Fishka(){
             }
 
             pos1 =  startCoordOfMouse[0] - e.clientY - 200
-            pos1h = startCoordOfMouse[1] - e.clientX + 2300
+            pos1h = startCoordOfMouse[1] - e.clientX + 1000
 
             pos2 = e.clientY - startCoordOfMouse[0] + 200
 
-            img1.style.transform = 'translate(' + '-' + pos1h/16 + 'px' + ', 0' + ') rotate(' + pos1/14 + 'deg' + ') scale(-1,1) '
+            img1.style.transform = 'translate(' + '-' + pos1h/11 + 'px' + ', 0' + ') rotate(' + pos1/14 + 'deg' + ') scale(-1,1) '
 
-            img2.style.transform = 'translate(' + pos1h/16 + 'px' + ', 0' + ') rotate(' + pos2/14 + 'deg' + ')  '
+            img2.style.transform = 'translate(' + pos1h/11 + 'px' + ', 0' + ') rotate(' + pos2/14 + 'deg' + ')  '
 
         }
 
